@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    text-align: left;
+}
+
+.footer{
+    position: sticky;
+    margin-bottom: 0px;
+}
+
+canvas{
+    border: ridge lawngreen;
+}
